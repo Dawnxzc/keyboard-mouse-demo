@@ -6,3 +6,4 @@
 */target/
 *.component
 .idea/
+target/*
